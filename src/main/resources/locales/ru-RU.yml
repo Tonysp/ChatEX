@@ -1,0 +1,18 @@
+Commands:
+  Reload:
+    Description: 'Перезагрузка плагина и его конфигурации.'
+  Clear:
+    Description: 'Очистка чата.'
+    Console: 'Консоль'
+    Unknown: 'НЕИЗВЕСТНЫЙ'
+Messages:
+  Chat:
+    AdDetected: '&4Advertising is not allowed! (%perm)'
+  Commands:
+    Reload:
+      Success: '&aКонфигурация перезагружена.'
+    Clear:
+      Success: '&aЧат был очещен игроком '
+  CommandResult:
+    NoPermission: '&4[ОШИБКА] &7Вы не имеете разрешения для этого! &c(%perm%)'
+    WrongUsage: '&c[ОШИБКА] &7Неверное использование! Пожалуйста введите &6/%cmd% help для помощи&7!'
